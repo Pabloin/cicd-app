@@ -1,5 +1,5 @@
 # cicd-app
 
-v1
+v2
 
 
